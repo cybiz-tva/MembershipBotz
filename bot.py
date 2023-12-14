@@ -1,4 +1,4 @@
-# Code made by https://github.com/EduContin
+pip install python-telegram-bot
 
 import logging
 import telegram
