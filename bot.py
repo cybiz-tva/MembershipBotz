@@ -1,5 +1,3 @@
-!pip install python-telegram-bot
-
 import logging
 import telegram
 import json
