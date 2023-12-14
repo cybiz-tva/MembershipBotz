@@ -12,8 +12,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     level=logging.INFO)
 
 # Set up bot and group IDs
-TOKEN = 'YOUR_TOKEN_HERE'
-group_id = GROUP_ID_HERE
+TOKEN = '6952652133:AAH7dthsmkxqgBSV1A3v_Aa7qANNPdxuZtQ'
+group_id = -1001649656389
 
 OWNER_ID = OWNER_ID
 DATA_FILE = 'schedule.json' # Path to JSON that stores all data about memberships
