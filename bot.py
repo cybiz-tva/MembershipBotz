@@ -13,7 +13,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 TOKEN = '6952652133:AAH7dthsmkxqgBSV1A3v_Aa7qANNPdxuZtQ'
 group_id = -1001649656389
 
-OWNER_ID = OWNER_ID
+OWNER_ID = 1456113437
 DATA_FILE = 'schedule.json' # Path to JSON that stores all data about memberships
 CODES_FILE = 'codes.txt' # Path to TXT that stores all codes to be redeemed
 
