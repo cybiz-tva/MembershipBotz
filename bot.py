@@ -154,7 +154,7 @@ def load_jobs():
 def main():
     
     # Set up dispatcher and job queue
-    updater = telegram.ext.Updater(TOKEN)
+    updater = telegram.ext.Updater(TOKEN, use_context=True)
     dp = updater.dispatcher
 
     # Register command handlers
