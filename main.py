@@ -11,9 +11,9 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
                     level=logging.INFO)
 
 # Set up bot and channel IDs
-TOKEN = 'YOUR_TOKEN_HERE'
-channel_id = '@your_channel_username'  # Replace with your channel username or ID
-OWNER_ID = OWNER_ID_HERE
+TOKEN = '6909183250:AAFXQ2RZMN_7f3Ll_0zfnwX_GmhGI0PbGio'
+channel_id = '@mikfxtesting'  # Replace with your channel username or ID
+OWNER_ID = 6604105637
 
 # Path to files
 DATA_FILE = 'schedule.json'
